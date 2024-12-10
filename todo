@@ -1,0 +1,3 @@
+<Pali> Malo by snáď byť z toho jasné, aké testy chýbajú.
+<Pali> Ten atribút sa dá nastaviť na $dbh alebo $sth. A potom ako sa to prejaví pri volaní ->disconnect() a ->disconnect_all().
+<Pali> A potom je tam ešte chyták s END blokom od DBI, čo je výnimka.
